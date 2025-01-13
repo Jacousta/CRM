@@ -7,7 +7,7 @@ This repository contains the backend services for the Mini CRM application, incl
 - **Backend Framework:** Node.js
 - **Database:** MongoDB
 - **Message Broker:** RabbitMQ (hosted on CloudAMQP)
-- **Hosting:** Railway
+
 
 ## Projects
 
