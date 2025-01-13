@@ -48,8 +48,7 @@ For more details, please refer to the [README](consumer-server/README.md) in the
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/UtkarshSingh5474/xeno-mini-crm-backend.git
-    cd xeno-mini-crm-backend
+    git clone https://github.com/Jacousta/Xeno-Completed.git
     ```
 
 2. Follow the instructions in the respective folders (`api-backend` and `consumer-server`) to set up and run each service.
