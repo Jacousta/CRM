@@ -7,13 +7,12 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC1qGajQR_D722ktE7GkIz3-IOVF1ewo0c",
-  authDomain: "xeno-crm-c2ef7.firebaseapp.com",
-  projectId: "xeno-crm-c2ef7",
-  storageBucket: "xeno-crm-c2ef7.firebasestorage.app",
-  messagingSenderId: "213011307566",
-  appId: "1:213011307566:web:5399326277cf9d378fd3bf",
-  measurementId: "G-NYRXE5SXVN"
+  apiKey: "AIzaSyCkqOQmLbuFE4CX9RhzM4ZzzZit1MZp_DA",
+  authDomain: "xeno-crm-dfb16.firebaseapp.com",
+  projectId: "xeno-crm-dfb16",
+  storageBucket: "xeno-crm-dfb16.firebasestorage.app",
+  messagingSenderId: "210774791437",
+  appId: "1:210774791437:web:6dbfa9aeee204df1450c44"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
